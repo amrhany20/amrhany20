@@ -8,7 +8,7 @@ please find me in the social links below 😅
 
 Hello 👋
 
-## Want to know about me ? 🏋🏽👦
+## Want to know about me ? 🏋🏽☕🔥🍖👦
 
 A Computer Science graduate with a flair for front-end excellence in React, a wizard of Python's mystical arts, and a maestro of AI orchestration.
 With a track record of crafting digital wonders, he excels in ERP mastery, database wizardry, and the arcane arts of Django, conjuring web applications from the ethers of code.
